@@ -1,6 +1,15 @@
 body{
-    background-color: aqua
+    background-color: aqua;
+
 }
 h1{
-   
+   font-family: "Rye", serif;
+   font-weight: 400;
+   font-style: normal;
+   color: brown;
+
+}
+h2{
+   color: black;
+
 }
