@@ -11,11 +11,4 @@ h1{
 }
 h2{
    color: black;
-
-}
-h3{ shape-outside: -moz-repeating-linear-gradient(45);
-    color: aquamarine;
-}
-hatchpath{
-    inset-block-end: 56;
 }
