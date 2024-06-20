@@ -13,6 +13,6 @@ h2{
    color: black;
 
 }
-solidcolor{
+h3{ shape-outside: -moz-repeating-linear-gradient(45);
     color: aquamarine;
 }
